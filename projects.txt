@@ -2,3 +2,4 @@ Enosis Solutions Projects
 * Project A
 * Project B
 * Project C
+* GIT Excercise
