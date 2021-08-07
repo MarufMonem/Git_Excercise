@@ -1,0 +1,10 @@
+public class HelloWorld{
+
+     static void totalSalary(int total_employees){
+         System.out.println(100000 * total_employees);
+     }
+     
+     public static void main(String []args){
+        int salary = 100000;
+     }
+}
