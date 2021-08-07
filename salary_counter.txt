@@ -1,10 +1,11 @@
 public class HelloWorld{
-
-     static void totalSalary(int total_employees){
-         System.out.println(100000 * total_employees);
+     static void totalSalary(int total_employees, int salary){
+         System.out.println(salary * total_employees);
      }
      
      public static void main(String []args){
-        int salary = 100000;
+        int salary = 110000;
+	int employee_count = 15;
+	totalSalary(employee_count, salary);
      }
 }
